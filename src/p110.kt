@@ -32,6 +32,5 @@ fun main() {
 
     for (car in carList) {
         car.displayInformation()
-        println()
     }
 }
